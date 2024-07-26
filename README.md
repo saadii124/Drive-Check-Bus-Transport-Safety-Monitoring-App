@@ -46,15 +46,13 @@ Development Environment: Android Studio<br>
 # Contact
 For more information, please contact the project team at [drivecheck727@gmail.com].
 # Screenshots
+![logo](https://github.com/user-attachments/assets/ee134ea0-3f2f-4a18-b6e0-f550af1f6340)
 ![logging(loading)](https://github.com/user-attachments/assets/4b786e5d-9fad-44c3-9a3f-d69c1808a2ea)
 ![driver detail(not drowzy_online)](https://github.com/user-attachments/assets/663fde95-878c-4994-b8a6-fb3d54adef99)
 ![driver detail(map)](https://github.com/user-attachments/assets/62c18644-0ad7-4e39-9690-8f4d3031f1ab)
 ![driver dashboard](https://github.com/user-attachments/assets/fde5c177-d049-4174-89c0-61b8c36c937c)
 ![signup(owner)](https://github.com/user-attachments/assets/51bd6165-d444-4149-8edc-45eeec3bfddb)
 ![signup(dr)](https://github.com/user-attachments/assets/d891c07f-24ec-4a5a-bc41-c45e3dc357aa)
-![Screenshot 2024-06-28 010909](https://github.com/user-attachments/assets/ea756d4f-93e8-4cbd-916f-ea1c0a5685b3)
 ![owner dashboard](https://github.com/user-attachments/assets/502c6338-2743-4c15-aaab-18b1c89850af)
-![notification](https://github.com/user-attachments/assets/66cef135-8659-4bd6-b45d-ac08dc1579fc)
-![logo](https://github.com/user-attachments/assets/ee134ea0-3f2f-4a18-b6e0-f550af1f6340)
 ![login](https://github.com/user-attachments/assets/1eb58248-81cd-4b4e-8503-4293675527ab)
 
