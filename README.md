@@ -4,10 +4,10 @@
 Drive Check is an innovative mobile application designed to enhance the safety and efficiency of bus transportation systems. This app aims to provide real-time monitoring of driver behavior to prevent accidents caused by overspeeding, drowsiness, and other distractions. By leveraging advanced AI and machine learning models, Drive Check offers a comprehensive solution for bus transport company owners and management heads to ensure the safety of their fleet and passengers.
 
 # Features
-Real-Time Monitoring: Utilizes mobile phone cameras for real-time monitoring of driver drowsiness.
-Overspeeding Detection: Monitors bus speed through OpenStreetMap (OSM) integration.
-Alert Mechanism: Sends immediate notifications to transport company owners when safety violations are detected.
-Driver Dashboard: Provides detailed information on driver behavior and location tracking.
+Real-Time Monitoring: Utilizes mobile phone cameras for real-time monitoring of driver drowsiness.<br>
+Overspeeding Detection: Monitors bus speed through OpenStreetMap (OSM) integration.<br>
+Alert Mechanism: Sends immediate notifications to transport company owners when safety violations are detected.<br>
+Driver Dashboard: Provides detailed information on driver behavior and location tracking.<br>
 # Implementation Details
 # Algorithm Development and Speed-o-Meter
 We have developed a custom algorithm using the YOLOv8 model to detect driver drowsiness. The model was trained on a dataset of drowsiness images and tested to ensure high accuracy. The overspeeding detection is implemented using the OpenStreetMap (OSM) library to track the bus location and speed.
