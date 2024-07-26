@@ -46,13 +46,15 @@ Development Environment: Android Studio<br>
 # Contact
 For more information, please contact the project team at [drivecheck727@gmail.com].
 # Screenshots
-![logo](https://github.com/user-attachments/assets/ee134ea0-3f2f-4a18-b6e0-f550af1f6340)
-![logging(loading)](https://github.com/user-attachments/assets/4b786e5d-9fad-44c3-9a3f-d69c1808a2ea)
-![driver detail(not drowzy_online)](https://github.com/user-attachments/assets/663fde95-878c-4994-b8a6-fb3d54adef99)
-![driver detail(map)](https://github.com/user-attachments/assets/62c18644-0ad7-4e39-9690-8f4d3031f1ab)
-![driver dashboard](https://github.com/user-attachments/assets/fde5c177-d049-4174-89c0-61b8c36c937c)
-![signup(owner)](https://github.com/user-attachments/assets/51bd6165-d444-4149-8edc-45eeec3bfddb)
-![signup(dr)](https://github.com/user-attachments/assets/d891c07f-24ec-4a5a-bc41-c45e3dc357aa)
-![owner dashboard](https://github.com/user-attachments/assets/502c6338-2743-4c15-aaab-18b1c89850af)
-![login](https://github.com/user-attachments/assets/1eb58248-81cd-4b4e-8503-4293675527ab)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ee134ea0-3f2f-4a18-b6e0-f550af1f6340" alt="logo" width="200"/>
+  <img src="https://github.com/user-attachments/assets/4b786e5d-9fad-44c3-9a3f-d69c1808a2ea" alt="logging(loading)" width="200"/>
+  <img src="https://github.com/user-attachments/assets/663fde95-878c-4994-b8a6-fb3d54adef99" alt="driver detail(not drowzy_online)" width="200"/>
+  <img src="https://github.com/user-attachments/assets/62c18644-0ad7-4e39-9690-8f4d3031f1ab" alt="driver detail(map)" width="200"/>
+  <img src="https://github.com/user-attachments/assets/fde5c177-d049-4174-89c0-61b8c36c937c" alt="driver dashboard" width="200"/>
+  <img src="https://github.com/user-attachments/assets/51bd6165-d444-4149-8edc-45eeec3bfddb" alt="signup(owner)" width="200"/>
+  <img src="https://github.com/user-attachments/assets/d891c07f-24ec-4a5a-bc41-c45e3dc357aa" alt="signup(dr)" width="200"/>
+  <img src="https://github.com/user-attachments/assets/502c6338-2743-4c15-aaab-18b1c89850af" alt="owner dashboard" width="200"/>
+  <img src="https://github.com/user-attachments/assets/1eb58248-81cd-4b4e-8503-4293675527ab" alt="login" width="200"/>
+</p>
