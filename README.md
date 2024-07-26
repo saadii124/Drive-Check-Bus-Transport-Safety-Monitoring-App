@@ -18,30 +18,30 @@ The system integrates various components, including the mobile application, AI m
 # Alert Mechanism Implementation
 An alert mechanism is in place to notify transport company owners of any detected issues. The system sends push notifications in real-time to ensure immediate action can be taken.
 
-Testing and Validation
+# Testing and Validation
 The system was thoroughly tested using multiple scenarios to validate its effectiveness. The AI model for drowsiness detection was tested using live camera feeds, ensuring it accurately identifies drowsy drivers.
 
-Deployment and Evaluation
+# Deployment and Evaluation
 The app is ready for deployment on Android devices running OS 8.0 (Oreo) and above. The deployment process includes setting up Firebase for data storage and notification services.
 
-Mobile Application Development
+# Mobile Application Development
 The mobile app was developed using Android Studio and Kotlin. The UI/UX design focuses on ease of use and providing clear, actionable information to the user. The app integrates OpenStreetMap for location tracking and uses Google Mobile Vision API for real-time video analysis.
 
-Future Work
+# Future Work
 Future enhancements include integrating onboard cameras in buses for better monitoring and deploying the trained drowsiness detection model into the mobile app. Additional features such as distracted driving detection and more sophisticated alert mechanisms will also be explored.
 
-Sustainable Development Goals (SDGs)
+# Sustainable Development Goals (SDGs)
 Our project aligns with the following SDGs:
 
 Good Health and Well-Being: By enhancing road safety, we aim to reduce accidents and injuries.
 Decent Work and Economic Growth: Ensuring safe transport systems contributes to economic stability.
 Industry, Innovation, and Infrastructure: Drive Check promotes innovation in transportation safety.
-Tools and Techniques
+# Tools and Techniques
 Programming Languages: Kotlin for Android development
 Machine Learning Models: YOLOv8 for drowsiness detection
 APIs: Google Mobile Vision API for real-time video analysis
 Mapping: OpenStreetMap for location tracking
 Database: Firebase for data storage and notifications
 Development Environment: Android Studio
-Contact
-For more information, please contact the project team at [your-email@example.com].
+# Contact
+For more information, please contact the project team at [drivecheck727@gmail.com].
