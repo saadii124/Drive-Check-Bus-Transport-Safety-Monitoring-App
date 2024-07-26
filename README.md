@@ -33,15 +33,15 @@ Future enhancements include integrating onboard cameras in buses for better moni
 # Sustainable Development Goals (SDGs)
 Our project aligns with the following SDGs:
 
-Good Health and Well-Being: By enhancing road safety, we aim to reduce accidents and injuries.
-Decent Work and Economic Growth: Ensuring safe transport systems contributes to economic stability.
-Industry, Innovation, and Infrastructure: Drive Check promotes innovation in transportation safety.
+Good Health and Well-Being: By enhancing road safety, we aim to reduce accidents and injuries.<br>
+Decent Work and Economic Growth: Ensuring safe transport systems contributes to economic stability.<br>
+Industry, Innovation, and Infrastructure: Drive Check promotes innovation in transportation safety.<br>
 # Tools and Techniques
-Programming Languages: Kotlin for Android development
-Machine Learning Models: YOLOv8 for drowsiness detection
-APIs: Google Mobile Vision API for real-time video analysis
-Mapping: OpenStreetMap for location tracking
-Database: Firebase for data storage and notifications
-Development Environment: Android Studio
+Programming Languages: Kotlin for Android development<br>
+Machine Learning Models: YOLOv8 for drowsiness detection<br>
+APIs: Google Mobile Vision API for real-time video analysis<br>
+Mapping: OpenStreetMap for location tracking<br>
+Database: Firebase for data storage and notifications<br>
+Development Environment: Android Studio<br>
 # Contact
 For more information, please contact the project team at [drivecheck727@gmail.com].
